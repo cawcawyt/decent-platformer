@@ -1,3 +1,9 @@
-This project is a pretty basic platformer
+this is a basic platformer, it isnt much
 
-NOTE: this project is pretty simple and basic.
+you use arrow keys to move, space or up arrow to jump.
+
+you go up to the next level
+
+its pretty short
+
+dont fall down too much.
